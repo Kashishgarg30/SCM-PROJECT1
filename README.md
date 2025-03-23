@@ -1,1 +1,1 @@
-# SCM-PROJECT1
+I am performing gitignore and README experiment.
